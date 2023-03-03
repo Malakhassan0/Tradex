@@ -1,0 +1,6 @@
+/* 0 : 1200 */
+@media (max-width:1200px){
+    .custom-position{
+        position: static;
+    }
+}
